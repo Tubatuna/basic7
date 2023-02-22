@@ -1,0 +1,69 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header {
+    background-color: black;
+    color:darkgray;
+    font-family: 'Rock Salt', cursive;
+}
+
+/* section {
+    display:inline-block;
+    width:45%;
+} */
+.bölüm1 {
+    background-color:gainsboro;
+    color:darkgray;
+    list-style-type: disc;
+   float:left;
+   width:50%;
+   color:rgb(78, 74, 74);
+   font-family: 'Roboto', sans-serif;
+}
+.bölüm1 h2{
+    font-family: 'Open Sans', sans-serif;
+}
+   .bölüm2{
+    float: left;
+    width:50%;
+    color:rgb(78, 74, 74);
+    font-family: 'Roboto', sans-serif;
+   }
+   .bölüm2 h2{
+    font-family: 'Open Sans', sans-serif;
+   }
+
+   ul{
+    margin:10px 30px;
+    font-size: 14px;
+    
+   }
+   .temizle{
+    clear:both;
+   }
+   
+    .son{
+    background-color: black;
+    color:darkgray;
+    height:383px;
+   } 
+   .son h2{
+    font-family: 'Rock Salt', cursive;
+    margin-bottom: 20px;
+   }
+   .son p{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+   }
+   .son a{
+    float:right;
+    text-decoration: none;
+    color:darkgray;
+
+   }
+/* 
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rock Salt', cursive;
+    */
